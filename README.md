@@ -100,4 +100,4 @@ face-recognition/
 
 ---
 
-Dibuat dengan ❤️ menggunakan Python, face_recognition, dan OpenCV.
+Dibuat dengan Python, face_recognition, dan OpenCV.
