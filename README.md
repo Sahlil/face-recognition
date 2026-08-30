@@ -74,7 +74,6 @@ python face_recognition_app.py
 3. Tekan tombol `q` untuk keluar dari aplikasi
 
 ## Struktur Direktori
-
 ```
 face-recognition/
 │
